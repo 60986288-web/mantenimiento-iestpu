@@ -2,10 +2,10 @@
 return [
     'db' => [
         'host'    => 'mysql.railway.internal',
-        'puerto'  => 3306, // Pega aquí el número de puerto que te da Railway
-        'nombre'  => 'railway',
-        'usuario' => 'root', // o el usuario que te de Railway
-        'clave'   => 'llfZLgtKKhcevSbPMxRrrisWPSMbSlOl',
+        'puerto'  => 3306, // Cambia por el puerto externo largo de Railway si es distinto
+        'nombre'  => 'ferrocarril',
+        'usuario' => 'root',
+        'clave'   => '1lfZLgtKKhcevSbPMxRrrisWPSMbs1ol',
         'charset' => 'utf8mb4',
     ],
 ];
