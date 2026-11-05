@@ -1,0 +1,16 @@
+.card { border-radius: .6rem; }
+.display-6 { font-weight: 600; }
+table th { white-space: nowrap; }
+
+body { background-color: #f8f9fa; }
+.sidebar { min-height: 100vh; background-color: #0b1a30; color: white; }
+.sidebar a { color: #b0c4de; text-decoration: none; padding: 12px 20px; display: block; border-left: 4px solid transparent; }
+.sidebar a:hover, .sidebar a.active { background-color: #1a2b48; color: white; border-left-color: #0d6efd; }
+.sidebar .brand { padding: 20px; font-size: 1.2rem; font-weight: bold; border-bottom: 1px solid #1a2b48; display: flex; align-items: center; gap: 10px; }
+.card-stats { border: none; border-radius: 12px; color: white; }
+.card-stats .icon { font-size: 2.5rem; opacity: 0.5; }
+.bg-blue { background: linear-gradient(135deg, #0d6efd, #0a58ca); }
+.bg-green { background: linear-gradient(135deg, #198754, #146c43); }
+.bg-orange { background: linear-gradient(135deg, #fd7e14, #e36a0a); }
+.bg-purple { background: linear-gradient(135deg, #6f42c1, #59359a); }
+.table-custom th { background-color: #f1f5f9; color: #475569; font-weight: 600; border-bottom: 2px solid #e2e8f0; }
